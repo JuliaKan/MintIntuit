@@ -1,0 +1,123 @@
+html {
+    background-color: rgb(233, 233, 233);
+}
+.whiteBox {
+    background-color: white;
+    margin: auto;
+    width: 30%;
+    border:solid rgb(177, 177, 177);
+    border-radius:2px;
+    border-width:1px;
+}
+
+body {
+    text-align: center;
+    margin: auto 0;
+    font-family: Lato;
+    color: rgb(59, 59, 59);
+}
+
+.logos {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.linktext{
+    display: inline;
+    color: grey;
+    font-size: 1.5em;
+    position: relative;
+    padding-right:3px;
+    bottom:.2em;
+}
+
+#intuit {
+    width: 15%;
+    height: 10%;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
+
+
+textarea {
+    display: block;
+    margin: auto;
+    width: 90%;
+    border: 1px solid rgb(211, 211, 211);
+    border-radius: 5px;
+}
+
+
+td {
+    vertical-align: center;
+    height: 100%;
+}
+
+.prompts{
+    text-align: left;
+    margin-left: 20px;
+}
+
+#lilMessage{
+    width: 80%;
+    margin:auto;
+    padding-top:5px;
+    margin: top;
+    
+}
+#important {
+    color: black;
+    text-align: left;
+    margin-left: 5px;
+    float:left;
+    
+    
+    
+}
+
+#lockImage{
+    width: 1.5em;
+    height: 1.5em;
+}
+a {
+    text-decoration: none;
+}
+
+#submitButton{
+    background-color: rgb(78, 78, 255);
+    display: block;
+    margin: auto;
+    width: 90%;
+    border: 1px solid rgb(211, 211, 211);
+    border-radius: 5px;
+    height: 4em;
+    color:white;
+    font-size:1em;
+
+}
+h3{
+    font-size:1.5em;
+    font-weight:normal;
+    margin:0;
+}
+hr{
+    width:80%;
+    border-color:rgb(187, 184, 184);
+    
+}
+.agree{
+    font-style:italic;
+    color:rgb(196, 195, 195);
+}
+#greyBox{
+    background-color:rgb(231, 230, 230);
+    font-size:x-small;
+    height:20px;
+}
+#greyFooter{
+    background-color:rgb(231, 230, 230);
+}
